@@ -1,5 +1,7 @@
 #Earth Day Part 2
 
+If you haven't already, be sure to check out part 1 here https://github.com/HitMeWMusic/EarthWeekresourcesV1.1
+
 Earth Day 2023 (part 2)
 
 I have been reflecting on the issues related to climate change and I wanted to share a few thoughts about the developments of ongoing environmental efforts, successes, failures and lessons learned.
@@ -54,3 +56,4 @@ These breakthroughs and others are helping to accelerate the transition to a sus
 If you made it this far, I appreciate you reading and hank you for your time. If you feel that any part of this resonates with you, please share or talk about this with someone.
 We are all in this together.
 -Jose (Hitmewmusic) <3
+
