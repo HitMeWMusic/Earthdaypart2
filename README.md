@@ -1,5 +1,4 @@
-# Earthdaypart2
-Earth Day Part 2
+#Earth Day Part 2
 
 Earth Day 2023 (part 2)
 
