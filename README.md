@@ -43,17 +43,17 @@ Here are a few awesome things that are worth celebrating:
 
 - Solar Power Efficiency: The efficiency of solar cells has increased significantly over the years, from about 1% in the 1950s to over 20% today. In 2016, perovskite solar cells, achieved a record efficiency of 26.3%.
 
--Wind Turbine Technology: In addition to becoming more widespread, wind turbines have become more efficient and cost-effective, with larger and more powerful turbines being developed. In 2018, GE announced the development of the world's most powerful offshore wind turbine, the Haliade-X, with a capacity of 12 MW.
+- Wind Turbine Technology: In addition to becoming more widespread, wind turbines have become more efficient and cost-effective, with larger and more powerful turbines being developed. In 2018, GE announced the development of the world's most powerful offshore wind turbine, the Haliade-X, with a capacity of 12 MW.
 
--Energy Storage: Energy storage has become a crucial component in the transition to renewable energy. Advances in battery technology, such as lithium-ion batteries, have made it possible to store energy on a large scale. In 2021, Tesla announced the development of a new battery technology, called the Tesla 4680, which could significantly increase the energy capacity of batteries.
+- Energy Storage: Energy storage has become a crucial component in the transition to renewable energy. Advances in battery technology, such as lithium-ion batteries, have made it possible to store energy on a large scale. In 2021, Tesla announced the development of a new battery technology, called the Tesla 4680, which could significantly increase the energy capacity of batteries.
 
--Carbon Capture and Storage: Carbon capture and storage technology aims to capture carbon dioxide emissions from power plants and other industrial processes, and store them underground. In 2020, the world's largest CCS facility, the Gorgon Project in Australia.
+- Carbon Capture and Storage: Carbon capture and storage technology aims to capture carbon dioxide emissions from power plants and other industrial processes, and store them underground. In 2020, the world's largest CCS facility, the Gorgon Project in Australia.
 
--Climate Modeling: Climate modeling has improved significantly in recent years, with scientists using supercomputers to simulate climate scenarios and predict future climate patterns. In 2021, researchers from the UK and US used a supercomputer to simulate the Earth's climate for the next 1,000 years, providing a better understanding of the long-term impacts of climate change.
+- Climate Modeling: Climate modeling has improved significantly in recent years, with scientists using supercomputers to simulate climate scenarios and predict future climate patterns. In 2021, researchers from the UK and US used a supercomputer to simulate the Earth's climate for the next 1,000 years, providing a better understanding of the long-term impacts of climate change.
 
--Electric Vehicles: The development of electric vehicles has made it possible to reduce carbon emissions from transportation. Advances in battery technology have made it possible for EVs to have longer ranges and faster charging times. A new EV battery technology called solid-state batteries, was developed, which could significantly increase the range of EVs.
+- Electric Vehicles: The development of electric vehicles has made it possible to reduce carbon emissions from transportation. Advances in battery technology have made it possible for EVs to have longer ranges and faster charging times. A new EV battery technology called solid-state batteries, was developed, which could significantly increase the range of EVs.
 
--Hydrogen Fuel Cells: Hydrogen fuel cells convert hydrogen into electricity, with the only byproduct being water. Advances in fuel cell technology have made it possible to use hydrogen as a clean source of energy. In 2021, Hyundai introduced the Ioniq 5, the world's first mass-produced vehicle with a hydrogen fuel cell.
+- Hydrogen Fuel Cells: Hydrogen fuel cells convert hydrogen into electricity, with the only byproduct being water. Advances in fuel cell technology have made it possible to use hydrogen as a clean source of energy. In 2021, Hyundai introduced the Ioniq 5, the world's first mass-produced vehicle with a hydrogen fuel cell.
 
 These breakthroughs and others are helping to accelerate the transition to a sustainable, low-carbon economy, and hold the promise of a brighter future for the planet.
 
