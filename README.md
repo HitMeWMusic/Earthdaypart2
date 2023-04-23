@@ -2,7 +2,7 @@
 
 If you haven't already, be sure to check out part 1 here https://github.com/HitMeWMusic/EarthWeekresourcesV1.1
 
-##Earth Day 2023 (part 2)
+# Earth Day 2023 (part 2)
 
 I have been reflecting on the issues related to climate change and I wanted to share a few thoughts about the developments of ongoing environmental efforts, successes, failures and lessons learned.
 I’ll do my best to address some of these issues while sharing the best information I can find. I apologize in advance if some of it is a bit convoluted.
